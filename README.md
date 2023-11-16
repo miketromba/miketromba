@@ -23,15 +23,15 @@ Here are a handful I’m most proud of:
 ### Skills & Technologies:
 
 **Advanced:**
-TypeScript, JavaScript, Vue.js, Nuxt, Node.js, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma
+TypeScript, JavaScript, Vue.js, Nuxt, Node.js, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma, GPT-4
 
-**Experience with:** 
+**Experience with:**
 SQL, MySQL, Postgres, MongoDB, Redis, async message queues & distributed processing, Docker, Docker Compose, Nginx, React.js, Next.js, GraphQL, Ruby on Rails, Python, jQuery, WebSockets, Socket.io, Stripe Billing, Terraform, Pulumi, AWS CDK, Electron, Prettier, ESLint, Sass/SCSS
 
 **Infrastructure & platforms:**
-AWS, GCP, DigitalOcean, Cloudflare, Vercel, Firebase, Netlify, Redis Cloud, MongoDB Cloud, Heroku, Upstash, Fly.io, Supabase, PlanetScale, FaunaDB, GitHub
+AWS, GCP, DigitalOcean, Cloudflare, Vercel, Firebase, Netlify, Redis Cloud, MongoDB Cloud, Heroku, Upstash, Fly.io, Supabase, PlanetScale, FaunaDB, GitHub, OpenAI
 
-**Skills:** 
+**Skills:**
 Frontend & backend development, software architecture, project research/planning/management, database modeling & migration, API design & development, cloud system design, advanced web scraping, browser automation, email development & deliverability, billing systems, LLM prompt engineering, GitHub Actions, CI/CD, unit testing, UI/UX design, chrome extension development, real-time systems development, WebSockets, SEO
 
 ---
