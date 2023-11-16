@@ -18,6 +18,8 @@ Here are a handful I’m most proud of:
 
 - Trained hundreds of developers on advanced usage of VS Code through an online course, with an average **4.7 stars** rating.
 
+---
+
 ### Skills & Technologies:
 
 **Advanced:**
@@ -31,6 +33,8 @@ AWS, GCP, DigitalOcean, Cloudflare, Vercel, Firebase, Netlify, Redis Cloud, Mong
 
 **Skills:** 
 Frontend & backend development, software architecture, project research/planning/management, database modeling & migration, API design & development, cloud system design, advanced web scraping, browser automation, email development & deliverability, billing systems, LLM prompt engineering, GitHub Actions, CI/CD, unit testing, UI/UX design, chrome extension development, real-time systems development, WebSockets, SEO
+
+---
 
 I'm always looking for new challenges and opportunities. **[Let's Connect](mailto:mike@flamelab.io)**
 
