@@ -16,7 +16,7 @@ Here are a handful I’m most proud of:
 
 - Helped over 3,000,000+ software engineers discover great open source projects and resources through various websites I've created.
 
-- Trained hundreds of developers on advanced usage of VS Code through an online course.
+- Trained hundreds of developers on advanced usage of VS Code through an online course, with an average **4.7 stars** rating.
 
 ### Skills & Technologies:
 
