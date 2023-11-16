@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm an experienced Full-Stack Software Engineer with 8 years of experience. 
+I'm an experienced software engineer with 8 years of experience. 
 
 My journey began with iogames.space, a web platform I built and scaled to over 2 million monthly users, fueling my passion for delivering quality software at scale.
 
