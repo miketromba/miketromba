@@ -14,7 +14,7 @@ Here are a handful I’m most proud of:
 
 - Built the Theme Studio for VS Code - It reached #1 on Hacker News and continues to delight thousands of software developers each month. I replicated the entire VS Code interface with plain-old CSS (and lots of coffee).
 
-- Helped over 3,000,000+ software engineers discover great open source projects and resources through various websites I've created.
+- Helped over 3,000,000+ software engineers research and discover great open source resources through the various websites I've created.
 
 - Trained hundreds of developers on advanced usage of VS Code through an online course, with an average **4.7 stars** rating.
 
