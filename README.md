@@ -2,9 +2,9 @@
 
 I'm an experienced software engineer with 8 years of experience. 
 
-My journey began with iogames.space, a web platform I built and scaled to over 2 million monthly users, fueling my passion for delivering quality software at scale.
+My journey began with iogames.space, a web platform I built and scaled to **over 2 million monthly users**, fueling my passion for delivering quality software at scale.
 
-Since then, I’ve architected, designed, and implemented 30+ software applications, with a focus on helping software developers discover great open source projects and level-up their skills. 
+Since then, I’ve architected, designed, and implemented **30+** software applications, with a focus on helping software developers discover great open source projects and level-up their skills. 
 
 As of 2023, my projects have collectively reached **over 27 million users**.
 
