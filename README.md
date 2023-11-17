@@ -12,6 +12,8 @@ Here are a handful I’m most proud of:
 
 - Architected, designed, and developed an email marketing SaaS platform with 15+ features including an advanced WYSIWYG editor, email performance analytics, embeddable sign-up forms, and more. (52x Grow)
 
+- Independently developed and scaled a web application to over 2 million monthly users (iogames.space)
+
 - Built the Theme Studio for VS Code - It reached #1 on Hacker News and continues to delight thousands of software developers each month. I replicated the entire VS Code interface with plain-old CSS (and lots of coffee).
 
 - Helped over 3,000,000+ software engineers research and discover great open source resources through the various websites I've created.
