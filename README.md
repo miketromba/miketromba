@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm an experienced software engineer with 8 years of experience. 
+I'm a software engineer with 8 years of experience. 
 
 My journey began with iogames.space, a web platform I built and scaled to **over 2 million monthly users**, kick-starting my passion for building and delivering quality software at scale.
 
