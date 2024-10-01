@@ -34,17 +34,13 @@
 
 ## Skills & tech (keyword spam)
 
-**Advanced:**
-TypeScript, JavaScript, Vue.js, Nuxt, Node.js, Deno, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma, GPT-4o (LLM prompt engineering & APIs)
+- **Advanced:** TypeScript, JavaScript, Vue.js, Nuxt, Node.js, Deno, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma, GPT-4o (LLM prompt engineering & APIs)
 
-**Experience with:**
-SQL, MySQL, Postgres, MongoDB, Redis, async message queues & distributed processing, Docker, Docker Compose, Nginx, React.js, Next.js, GraphQL, Ruby on Rails, Python, jQuery, WebSockets, Socket.io, Stripe Billing, Terraform, Pulumi, AWS CDK, Electron, Prettier, ESLint, Sass/SCSS
+- **Experience with:** SQL, MySQL, Postgres, MongoDB, Redis, async message queues & distributed processing, Docker, Docker Compose, Nginx, React.js, Next.js, GraphQL, Ruby on Rails, Python, jQuery, WebSockets, Socket.io, Stripe Billing, Terraform, Pulumi, AWS CDK, Electron, Prettier, ESLint, Sass/SCSS
 
-**Infrastructure & platforms:**
-AWS, GCP, DigitalOcean, Cloudflare, Vercel, Firebase, Netlify, Redis Cloud, MongoDB Cloud, Heroku, Upstash, Fly.io, Supabase, PlanetScale, FaunaDB, GitHub, OpenAI
+- **Infrastructure & platforms:** AWS, GCP, DigitalOcean, Cloudflare, Vercel, Firebase, Netlify, Redis Cloud, MongoDB Cloud, Heroku, Upstash, Fly.io, Supabase, PlanetScale, FaunaDB, GitHub, OpenAI
 
-**Skills:**
-Frontend & backend development, product design & end-to-end engineering management, software architecture, project research/planning/management, database modeling & migration, API design & development, cloud system design, advanced web scraping, browser automation, email development & deliverability, billing systems, LLM prompt engineering, GitHub Actions, CI/CD, unit testing, UI/UX design, chrome extension development, real-time systems development, WebSockets, SEO
+- **Skills:** Frontend & backend development, product design & end-to-end engineering management, software architecture, project research/planning/management, database modeling & migration, API design & development, cloud system design, advanced web scraping, browser automation, email development & deliverability, billing systems, LLM prompt engineering, GitHub Actions, CI/CD, unit testing, UI/UX design, chrome extension development, real-time systems development, WebSockets, SEO
 
 <br>
 
