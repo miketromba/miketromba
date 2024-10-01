@@ -50,7 +50,7 @@ Frontend & backend development, product design & end-to-end engineering manageme
 
 ## CTA
 
-I'm always looking for new challenges and opportunities. **[Let's Connect](mailto:mike@flamelab.io)**
+**[Email Mike](mailto:mike@flamelab.io)**
 
 <!--
 **miketromba/miketromba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
