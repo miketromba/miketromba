@@ -1,18 +1,24 @@
-### Hello!
+### 👉 _Job hunting?_ I'm building an AI that helps you get hired: [ApplyFox.ai](https://applyfox.ai)
 
-I'm a software engineer with 8 years of experience. 
+[![image](https://github.com/user-attachments/assets/b4274746-8968-455a-a0b3-e73012987f6e)](https://applyfox.ai)
 
-My journey began with iogames.space, a web platform I built and scaled to **over 2 million monthly users**, kick-starting my passion for building and delivering quality software at scale.
+<br>
 
-Since then, I’ve architected, designed, and implemented **30+** software applications, with a focus on helping software developers discover great open source projects and level-up their skills. 
+## Elevator pitch
 
-As of 2023, my projects have collectively reached **over 27 million users**.
+- In 2016, I taught myself to code, launched a web games platform, and scaled it to **over 2 million users/mo**.
 
-Here are a handful I’m most proud of:
+- Since then, I’ve architected, designed, and implemented **>30** software applications. 
+
+- As of 2024, my projects have collectively reached **over 27 million users**.
+
+<br>
+
+## \<ul\> of cool stuff I've done
 
 - Architected, designed, and developed an email marketing SaaS platform with 15+ features including an advanced WYSIWYG editor, email performance analytics, embeddable sign-up forms, and more. (52x Grow)
 
-- Independently developed and scaled a web application to over 2 million monthly users (iogames.space)
+- Independently developed and scaled a web application to over 2M users/mo (iogames.space)
 
 - Built the Theme Studio for VS Code - It reached #1 on Hacker News and continues to delight thousands of software developers each month. I replicated the entire VS Code interface with plain-old CSS (and lots of coffee).
 
@@ -20,12 +26,16 @@ Here are a handful I’m most proud of:
 
 - Trained hundreds of developers on advanced usage of VS Code through an online course, with an average **4.7 stars** rating.
 
----
+- Designed the product, recruited engineers, and managed the engineering of [ListCleanser.com](https://listcleanser.com) - the accurate & affordable email verification SaaS platform.
 
-### Skills & Technologies:
+- Designed the product & managed engineering of [ApplyFox.ai](https://applyfox.ai) - the AI that applies to jobs for you.
+
+<br>
+
+## Skills & tech (keyword spam)
 
 **Advanced:**
-TypeScript, JavaScript, Vue.js, Nuxt, Node.js, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma, GPT-4
+TypeScript, JavaScript, Vue.js, Nuxt, Node.js, Deno, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma, GPT-4o (LLM prompt engineering & APIs)
 
 **Experience with:**
 SQL, MySQL, Postgres, MongoDB, Redis, async message queues & distributed processing, Docker, Docker Compose, Nginx, React.js, Next.js, GraphQL, Ruby on Rails, Python, jQuery, WebSockets, Socket.io, Stripe Billing, Terraform, Pulumi, AWS CDK, Electron, Prettier, ESLint, Sass/SCSS
@@ -34,9 +44,11 @@ SQL, MySQL, Postgres, MongoDB, Redis, async message queues & distributed process
 AWS, GCP, DigitalOcean, Cloudflare, Vercel, Firebase, Netlify, Redis Cloud, MongoDB Cloud, Heroku, Upstash, Fly.io, Supabase, PlanetScale, FaunaDB, GitHub, OpenAI
 
 **Skills:**
-Frontend & backend development, software architecture, project research/planning/management, database modeling & migration, API design & development, cloud system design, advanced web scraping, browser automation, email development & deliverability, billing systems, LLM prompt engineering, GitHub Actions, CI/CD, unit testing, UI/UX design, chrome extension development, real-time systems development, WebSockets, SEO
+Frontend & backend development, product design & end-to-end engineering management, software architecture, project research/planning/management, database modeling & migration, API design & development, cloud system design, advanced web scraping, browser automation, email development & deliverability, billing systems, LLM prompt engineering, GitHub Actions, CI/CD, unit testing, UI/UX design, chrome extension development, real-time systems development, WebSockets, SEO
 
----
+<br>
+
+## CTA
 
 I'm always looking for new challenges and opportunities. **[Let's Connect](mailto:mike@flamelab.io)**
 
