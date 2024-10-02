@@ -1,4 +1,4 @@
-### 👉 _Job hunting?_ I'm building an AI that helps you get hired: [ApplyFox.ai](https://applyfox.ai)
+### 👉 _Job hunting?_ We're building an AI that helps you get hired: [ApplyFox.ai](https://applyfox.ai)
 
 [![image](https://github.com/user-attachments/assets/b4274746-8968-455a-a0b3-e73012987f6e)](https://applyfox.ai)
 
