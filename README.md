@@ -16,9 +16,9 @@
 
 ## \<ul\> of cool stuff I've done
 
-- Architected, designed, and developed an email marketing SaaS platform with 15+ features including an advanced WYSIWYG editor, email performance analytics, embeddable sign-up forms, and more. ([52x Grow](https://52xgrow.com))
+- Architected, designed, and developed an email marketing SaaS platform with 15+ features including an advanced WYSIWYG editor, email performance analytics, embeddable sign-up forms, and more - [52x Grow](https://52xgrow.com)
 
-- Independently developed and scaled a web application to over 2M users/mo (iogames.space)
+- Independently developed and scaled a web application to over 2M users/mo - [iogames.space](https://iogames.space)
 
 - Built the [Theme Studio for VS Code](https://themes.vscode.one) - It reached #1 on Hacker News and continues to delight thousands of software developers each month. I replicated the entire VS Code interface with plain-old CSS (and lots of coffee).
 
