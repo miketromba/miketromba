@@ -4,9 +4,9 @@
 
 <br>
 
-## Elevator pitch
+## TLDR
 
-- In 2016, I taught myself to code, launched a web games platform, and scaled it to **over 2 million users/mo**.
+- In 2016, I launched a web games platform, and scaled it to **over 2 million users/mo**.
 
 - Since then, I’ve architected, designed, and implemented **>30** software applications. 
 
@@ -14,7 +14,7 @@
 
 <br>
 
-## \<ul\> of cool stuff I've done
+## Some things I've done
 
 - Architected, designed, and developed an email marketing SaaS platform with 15+ features including an advanced WYSIWYG editor, email performance analytics, embeddable sign-up forms, and more - [52x Grow](https://52xgrow.com)
 
@@ -32,9 +32,9 @@
 
 <br>
 
-## Skills & tech (keyword spam)
+## Skills & tech
 
-- **Advanced:** TypeScript, JavaScript, Vue.js, Nuxt, Node.js, Deno, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma, GPT-4o (LLM prompt engineering & APIs)
+- **Advanced:** TypeScript, JavaScript, Vue.js, Nuxt, Next.js, React.js, Node.js, Deno, HTML, CSS, TailwindCSS, Git, VS Code, tRPC, Figma, GPT-4o (LLM prompt engineering & APIs)
 
 - **Experience with:** SQL, MySQL, Postgres, MongoDB, Redis, async message queues & distributed processing, Docker, Docker Compose, Nginx, React.js, Next.js, GraphQL, Ruby on Rails, Python, jQuery, WebSockets, Socket.io, Stripe Billing, Terraform, Pulumi, AWS CDK, Electron, Prettier, ESLint, Sass/SCSS
 
