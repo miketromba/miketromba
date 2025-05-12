@@ -14,6 +14,10 @@
 
 <br>
 
+## Currently
+
+- Building [UXCanvas.ai](https://uxcanvas.ai?utm_source=githubprofile) - The Intelligent, AI-Powered UI/UX Design Agent. Go from idea to interactive, sharable UI/UX prototype in minutes. 
+
 ## Some things I've done
 
 - Architected, designed, and developed an email marketing SaaS platform with 15+ features including an advanced WYSIWYG editor, email performance analytics, embeddable sign-up forms, and more - [52x Grow](https://52xgrow.com)
