@@ -1,6 +1,7 @@
-### 👉 _Job hunting?_ We're building an AI that helps you get hired: [ApplyFox.ai](https://applyfox.ai)
+### 👉 _Introducing: UX Canvas_ — The AI-Powered UI/UX Design Agent
+Try for free at: [UXCanvas.ai](https://uxcanvas.ai)
 
-[![image](https://github.com/user-attachments/assets/b4274746-8968-455a-a0b3-e73012987f6e)](https://applyfox.ai)
+[![image](https://github.com/user-attachments/assets/ce7485c2-b143-46d3-b5ac-9c679d0af48b)](https://uxcanvas.ai?utm_source=githubprofile)
 
 <br>
 
