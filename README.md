@@ -1,5 +1,5 @@
 ### 👉 _Introducing: UX Canvas_ — The AI-Powered UI/UX Design Agent
-Try for free at: [UXCanvas.ai](https://uxcanvas.ai)
+Try for free at: [UXCanvas.ai](https://uxcanvas.ai?utm_source=githubprofile)
 
 [![image](https://github.com/user-attachments/assets/ce7485c2-b143-46d3-b5ac-9c679d0af48b)](https://uxcanvas.ai?utm_source=githubprofile)
 
